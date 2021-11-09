@@ -1,0 +1,43 @@
+The website to learn shell from MIT:
+The Missing Semester of Your CS Education 
+https://missing-semester-cn.github.io/
+
+1. basic arguments:
+#built-in programmes 
+#the shell has the ability to search the programm 
+#the env variable allow shell to search programm 
+# all absolute path starts from /
+
+	$ date # print the date 
+	$ echo hello # gives back the input
+	$ echo "hello world"
+	$ echo $PATH # print a list of path of the environments 
+	which echo # print the env in which echo is located in, 
+	and the output is /usr/bin/echo
+	$ pwd #print working directory 
+	$ cd /home/... # change directory 
+	# special directory: 
+	$ cd .. # go to the parent directory 
+	$ cd ./home # go to the home directory under the current directory 
+	$ ls # list the files in the current directory 
+	$ls --help # get help documentation 
+	$ ls -l #  
+	
+	$mv file1.text file2.text # rename a file 
+	$cp file1.tetx ../file2.text #copy file to another directory 
+	$rm file.text 
+	
+	$man ls # manual documentation 
+	
+	
+	control + l # move to the top 
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
