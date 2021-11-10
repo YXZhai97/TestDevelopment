@@ -32,6 +32,53 @@ https://missing-semester-cn.github.io/
 	
 	control + l # move to the top 
 	
+Root user 
+NOT ALWAYS THE CASE
+	sudo: do the things as super user 
+	sudo su # set the terminal under root user
+
+What is Bash?
+
+What is Bin?
+
+---------------------------------------------
+2. write scripts using shell to run program 
+Lecture 2: shell Tools and Scripting 
+https://www.youtube.com/watch?v=kgII-YWo3Zw&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=2
+---------------------------------------------
+or a better tutorial from bilibili 
+https://www.bilibili.com/video/BV1j541157Sr?from=search&seid=4579377174836280350&spm_id_from=333.337.0.0
+https://www.zutuanxue.com/home/4/6_20
+or tutorial from runoob.com
+https://www.runoob.com/linux/linux-shell.html
+
+Assign value to a variable 
+	a=b
+	echo $a 
+	echo "this is $a"
+
+control flow 
+
+'''
+Shell Script
+
+'''
+What is shell?
+Shell 是指一种应用程序，这个应用程序提供了一个界面，用户通过这个界面访问操作系统内核的服务。
+
+shell script:本质上是将完成一件事情的所有命令按照执行顺序写入一个文件，并给予文件执行权限。 
+
+Kernel<------Shell<-------user 
+User interacte with kernel vis shell interface 
+
+
+
+
+
+3. Lecture 3: Editors (vim) 
+
+
+
 	
 	
 	
