@@ -45,6 +45,8 @@ What is Bin?
 2. write scripts using shell to run program 
 Lecture 2: shell Tools and Scripting 
 https://www.youtube.com/watch?v=kgII-YWo3Zw&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=2
+
+
 ---------------------------------------------
 or a better tutorial from bilibili 
 https://www.bilibili.com/video/BV1j541157Sr?from=search&seid=4579377174836280350&spm_id_from=333.337.0.0
@@ -76,6 +78,22 @@ User interacte with kernel vis shell interface
 
 
 3. Lecture 3: Editors (vim) 
+-----------------------------------------------
+
+4. Shell脚本
+	执行方式
+	新开shell执行
+	1 ./script.sh
+	2 bash ./script.sh
+	3 sh ./script.sh
+	在当前shell执行
+	4. . script.sh
+	5. source script.sh
+
+5. 父子shell 参数作用范围
+	export my_var 可以将变量定义为全局变量
+	
+
 
 
 
